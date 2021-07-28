@@ -1,0 +1,13 @@
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.exe
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.deps.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.dev.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.dll
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.pdb
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.AssemblyReference.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfo.cs
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.dll
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.pdb
+D:\Documents\Curso C#\Projetos Visual Studio 2021\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.genruntimeconfig.cache
